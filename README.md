@@ -4,7 +4,7 @@ PyFile is a simple library which provides you some funcionalities for file readi
 
 # Install
 
-    from pyFile import pyFile
+    from wosPyFile import pyFile
 
 # Files
 

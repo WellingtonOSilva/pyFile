@@ -40,7 +40,7 @@ Output:
 
 ## Matrix
 
-If you have a defined range use can use pyFile.generateMatrix()
+If you have a defined range you can use pyFile.generateMatrix()
 
     data = []
     collumns = 240
